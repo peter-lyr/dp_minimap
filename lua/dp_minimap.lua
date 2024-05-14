@@ -17,6 +17,7 @@ minimap.setup {
     -- side = 'right',
     -- show_integration_count = true,
     -- width = 10,
+    width = 24,
     -- winblend = 25,
     -- zindex = 10,
   },
